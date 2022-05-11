@@ -1,0 +1,82 @@
+[
+    {
+	"student_roll_no" : 101,
+	"details" : {
+        		"name": "Andrew",
+        		"age": 12,
+        		"grade": "A"
+    		    }
+    },
+    {
+	"student_roll_no" : 102,
+	"details" : {
+        		"name": "John",
+        		"age": 18,
+        		"grade": "B"
+    		    }
+    },
+    {
+	"student_roll_no" : 103,
+	"details" : {
+        		"name": "Clinton",
+        		"age": 11,
+        		"grade": "A"
+    		    }
+    },
+    {
+	"student_roll_no" : 104,
+	"details" : {
+        		"name": "Drake",
+        		"age": 12,
+        		"grade": "C"
+    		     }
+    },
+    {
+	"student_roll_no" : 105,
+	"details" : {
+        		"name": "Eisha",
+        		"age": 13,
+        		"grade": "B"
+    		    }
+    },
+    {
+	"student_roll_no" : 106,
+	"details" : {
+        		"name": "Haris",
+        		"age": 22,
+        		"grade": "C"
+    	            }
+    },
+    {
+	"student_roll_no" : 107,
+	"details" : {
+        		"name": "Jenifer",
+        		"age": 11,
+        		"grade": "A"
+    		    }
+    },
+    {
+	"student_roll_no" : 108,
+	"details" : {
+        		"name": "Micheal",
+        		"age": 19,
+        		"grade": "A"
+    		    }
+    },
+    {
+	"student_roll_no" : 109,
+	"details" : {
+        		"name": "Isak",
+        		"age": 10,
+        		"grade": "D"
+    		    }
+    },
+    {
+	"student_roll_no" : 110,
+	"details" : {
+        		"name": "Jason",
+        		"age": 9,
+        		"grade": "B"
+    		    }
+    }
+]
