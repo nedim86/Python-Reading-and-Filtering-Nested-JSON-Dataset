@@ -1,4 +1,4 @@
-# Python-Reading-and-Filtering-Nested-JSON-Dataset
+# Python Reading and Filtering Nested JSON Dataset
 
 In this notebook, we will see how to read nested JOSN file, and then how to filter that loaded dataset under different conditions.
 
